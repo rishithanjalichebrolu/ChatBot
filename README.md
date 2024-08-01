@@ -61,10 +61,14 @@ When asked for weather updates, the chatbot extracts the city name from the user
 
 **Usage**
 
-Run the script to start the chatbot and interact with it through the terminal. 
+Run the script to start the chatbot and interact with it through the terminal.
+
 **You can:**
 
->>Ask the chatbot to take a picture.
->>Request weather updates by specifying a city.
->>Engage in general conversation to receive AI-generated responses.
->>Type exit to end the session.
+->Ask the chatbot to take a picture.
+
+->Request weather updates by specifying a city.
+
+->Engage in general conversation to receive AI-generated responses.
+
+->Type exit to end the session.
