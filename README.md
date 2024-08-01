@@ -18,6 +18,7 @@ Uses OpenCV to capture and save images from the webcam, offering users the abili
 Integrates with the OpenWeatherMap API to fetch and display current weather conditions based on user-specified cities.
 
 **Technologies Used**
+
 **Google Gemini API:**
 For generating conversational responses and handling user interactions.
 
@@ -31,6 +32,7 @@ For capturing and processing images from the webcam.
 For retrieving and presenting weather data.
 
 **Key Components**
+
 **Generative AI Configuration:** 
 Configured the Gemini API with safety settings and generation parameters to ensure appropriate and engaging responses.
 
